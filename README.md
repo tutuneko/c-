@@ -16,5 +16,6 @@
     		2.linux(系统开发)
       		3.建模(FreeCAD,blender...设计外观)
 	当然,短时间内学完多半是不可能的,我们学校衡水作息,精力本就不多,我的计划是1~2年内学完.
- 	我之前在日记里问自己"要不要参赛?"我现在的回答是"遵循你内心的抉择!",我找到了自己的梦想,知道了自己为什么而活.!![005DAC0A](https://github.com/user-attachments/assets/bea170d2-a381-4e8b-a203-69b4baf4261d)
+ 	我之前在日记里问自己"要不要参赛?"我现在的回答是"遵循你内心的抉择!",我找到了自己的梦想,知道了自己为什么而活.!!
+  [005DAC0A](https://github.com/user-attachments/assets/bea170d2-a381-4e8b-a203-69b4baf4261d)
 
